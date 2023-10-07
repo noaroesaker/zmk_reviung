@@ -41,10 +41,10 @@
 
         Number {
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &kp   &kp   &kp   &kp   &kp           &kp   &kp   &kp   &kp   &kp   &kp 
-&trans  &trans  &trans  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans  &trans
-                        &trans  &trans          &trans          &trans  &trans
+&trans  &kp LS(N1)  &trans  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &kp N1      &kp     &kp     &kp     &kp             &kp     &kp     &kp     &kp     &kp     &kp
+&trans  &trans      &trans  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans  &trans
+                            &trans  &trans          &trans          &trans  &trans
             >;
         };
 
