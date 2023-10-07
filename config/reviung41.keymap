@@ -41,10 +41,10 @@
 
         Number {
             bindings = <
-&trans  &kp LS(N1)  &trans  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &kp N1      &kp N2    &kp N3    &kp 4    &kp 5            &kp 6    &kp 7    &kp 8    &kp 9    &kp 0    &kp
-&trans  &trans      &trans  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans  &trans
-                            &trans  &trans          &trans          &trans  &trans
+&trans  &kp EXCLAMATION  &kp AT_SIGN  &kp HASH  &kp DOLLAR  &kp PERCENT          &kp CARET  &kp AMPERSAND  &kp ASTRK  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp UNDERSCORE
+&trans  &kp N1           &kp N2    &kp N3    &kp 4    &kp 5            &kp 6    &kp 7    &kp 8    &kp 9    &kp 0    &kp                   &kp                    &kp MINUS
+&trans  &trans           &trans       &trans    &trans      &trans               &trans     &trans         &trans     &trans                &trans                 &trans
+                                      &trans    &trans                   &trans             &trans         &trans
             >;
         };
 
