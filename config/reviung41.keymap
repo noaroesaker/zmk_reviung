@@ -22,9 +22,9 @@
 
         ColemakDH {
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans  &trans
+&TAB    &Q  &w  &F  &P  &B          &J  &L  &U  &Y  &trans  &trans
+&LCTRL  &A  &R  &S  &T  &G          &M  &N  &E  &I  &O  &trans
+&LSHIFT &Z  &X  &C  &D  &V          &K  &H  &trans  &trans  &trans  &trans
                         &trans  &trans          &trans          &trans  &trans
             >;
         };
